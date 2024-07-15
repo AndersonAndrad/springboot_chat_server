@@ -1,0 +1,25 @@
+# Spring Boot specific
+/target/
+*.log
+
+# IDE/Editor specific
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+*.jar
+
+# Maven specific
+mvnw
+mvnw.cmd
+.mvn/
+src/main/resources/application.properties
+
+# Gradle specific
+.gradle/
+build/
+
+.idea
+
+spring_chat.zip
